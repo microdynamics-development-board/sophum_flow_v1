@@ -10,7 +10,7 @@
     (CompileFileAddedOrDeleted "x")
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "1")
-    (ANNOTATE_Action "4")
+    (ANNOTATE_Action "0")
     (Annotate_Page_Order "0")
     (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
@@ -80,7 +80,8 @@
          "C:\users\abcd\documents\github\sophum_flow_v1\SCH\sophum_flow_v1.dsn"
          "SCHEMATIC1")
       (Select "Design Resources"
-         "C:\users\abcd\documents\github\sophum_flow_v1\SCH\sophum_flow_v1.dsn"))
+         "C:\users\abcd\documents\github\sophum_flow_v1\SCH\sophum_flow_v1.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -90,11 +91,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1260 104 366")
-        (Scroll "547 642")
-        (Zoom "80")
+        (Placement "44 2 3 -1 -1 -8 -31 104 1260 104 366")
+        (Scroll "-377 -5")
+        (Zoom "22")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\SOPHUM_FLOW_V1\SCH\SOPHUM_FLOW_V1.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Page "PAGE1")))
+  (MPSSessionName "abcd"))
